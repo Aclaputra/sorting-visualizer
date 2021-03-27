@@ -1,0 +1,19 @@
+.array-container {
+  /* position: absolute;
+  left: 100px; */
+  margin: 0 auto;
+  /* background-color: black; */
+}
+
+.array-bar {
+  width: 2px;
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 1px;
+  color: black;
+  font-size: 0.5vh;
+}
+
+.array-bar-container {
+  width: 100%;
+}
