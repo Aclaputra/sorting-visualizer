@@ -1,3 +1,4 @@
+## 🐱‍💻— Visualization Tool for Sorting Algorithms in Javascript React
 # Sorting Visualizer
 Visualization Tool for Sorting Algorithms
 
